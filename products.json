@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Nobel 8900", 
+        "pris": "14.995",
+        "stel1": "Lys brun",
+        "stel2": "Lysnet",
+        "stel3": "Hvidolieret",
+        "betræk1": "Sort læder",
+        "betræk2": "Grå bomuld",
+        "betræk3": "Rødt bomuld",
+        "image": "images/Nobel-8900.jpeg"
+    },
+    {
+        "name": "Nobel 8920", 
+        "pris": "15.595",
+        "stel1": "Lys brun",
+        "stel2": "Lysnet",
+        "stel3": "Hvidolieret",
+        "betræk1": "Sort læder",
+        "betræk2": "Grå bomuld",
+        "betræk3": "Rødt bomuld",
+        "image": "images/Nobel-8920.jpeg"
+    },
+    {
+        "name": "Homeline 6311", 
+        "pris": "23.270",
+        "stel1": "Lys brun",
+        "stel2": "Lysnet",
+        "stel3": "Hvidolieret",
+        "betræk1": "Sort læder",
+        "betræk2": "Grå bomuld",
+        "betræk3": "Rødt bomuld",
+        "image": "images/Homeline-6311.jpeg"
+    },
+    {
+        "name": "5040 Multiplus",
+        "pris": "32.660",
+        "stel1": "Lys brun",
+        "stel2": "Lysnet",
+        "stel3": "Hvidolieret",
+        "betræk1": "Sort læder",
+        "betræk2": "Grå bomuld",
+        "betræk3": "Rødt bomuld",
+        "image": "images/Multiplus-5040.jpeg"
+    },
+    {
+        "name": "2550 Stag W", 
+        "pris": "4.370",
+        "stel1": "Lys brun",
+        "stel2": "Lysnet",
+        "stel3": "Hvidolieret",
+        "betræk1": "Sort læder",
+        "betræk2": "Grå bomuld",
+        "betræk3": "Rødt bomuld",
+        "image": "images/2550-StagW.jpeg"
+    },
+    {
+        "name": "2500 Stag S", 
+        "pris": "4.215",
+        "stel1": "Lys brun",
+        "stel2": "Lysnet",
+        "stel3": "Hvidolieret",
+        "betræk1": "Sort læder",
+        "betræk2": "Grå bomuld",
+        "betræk3": "Rødt bomuld",
+        "image": "images/2550-StagW.jpeg"
+    }
+        
+
+]
